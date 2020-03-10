@@ -1,4 +1,4 @@
 # RobotFriends
-Powered by ReactJS
+Powered by ReactJS  
 ![ReactJS](react.png)
 
